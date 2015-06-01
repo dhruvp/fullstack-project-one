@@ -6,7 +6,9 @@ movie_list = [
     Movie(
         'Fast And Furious',
         'https://www.youtube.com/watch?v=2TAOizOnNPo',
-        'http://api.ning.com/files/aoq71LIlZOChX3eftNIu5RGmNOdK9a7PkZZbE1dyOvHhzCqylhhDdRFcDv2SzAIO-5-glP9eVwdSJJ5TnK2GmnIIJnZGG52B/fullhdhizliveofkeli1fastandfurious1turkcedublajizle.jpg',
+        'http://api.ning.com/files/aoq71LIlZOChX3eftNIu5RGmNOdK9a7PkZZbE1dyOvHhzCqylhhDdRFcDv2\
+        SzAIO-5-glP9eVwdSJJ5TnK2GmnIIJnZGG52B/fullhdhizliveofkeli1fastandfurious1turkcedublaji\
+        zle.jpg',
         'The First Fast And Furious Movie! Brian is a renegade cop who teams up with renegade driver Dominick Toretto.'
     ),
     Movie(
